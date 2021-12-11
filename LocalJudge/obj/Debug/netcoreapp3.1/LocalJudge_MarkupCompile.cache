@@ -1,0 +1,20 @@
+﻿LocalJudge
+
+
+winexe
+C#
+.cs
+C:\Users\Janice Tong\source\repos\LocalJudge\LocalJudge\obj\Debug\netcoreapp3.1\
+LocalJudge
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\Janice Tong\source\repos\LocalJudge\LocalJudge\App.xaml
+8-1400774549
+
+13-2091313952
+192-1533232326
+AdminInterface.xaml;CreateProblem.xaml;DisplayProblem.xaml;EditProblem.xaml;LogInPage.xaml;MainWindow.xaml;ProblemList.xaml;Statistics.xaml;
+
+False
+
